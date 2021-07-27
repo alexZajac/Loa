@@ -1,5 +1,7 @@
 # Loa 🧙‍♀️
 
+<!---https://github.com/alexZajac/Loa/raw/master/demo.gif-->
+
 A small AI-based conversational agent capable of providing accurate informations about U.S located restaurants, and integrated with a content-based recommendation engine.
 
 Made with ❤️ by [Alexandre ZAJAC](https://github.com/alexZajac), [Nicolas CAILLIEUX](https://github.com/Exorth98) and [Marc-Etienne Dartus](https://github.com/medartus).

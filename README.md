@@ -1,6 +1,6 @@
 # Loa 🧙‍♀️
 
-<!---https://github.com/alexZajac/Loa/raw/master/demo.gif-->
+<!---https://raw.githubusercontent.com/alexZajac/Loa/master/demo.gif-->
 
 A small AI-based conversational agent capable of providing accurate informations about U.S located restaurants, and integrated with a content-based recommendation engine.
 

@@ -1,6 +1,6 @@
 # Loa 🧙‍♀️
 
-<!---https://raw.githubusercontent.com/alexZajac/Loa/master/demo.gif-->
+<!---https://user-images.githubusercontent.com/38042033/128256533-7502c0f9-45cb-44df-bd9c-9b16ad0000cb.gif-->
 
 A small AI-based conversational agent capable of providing accurate informations about U.S located restaurants, and integrated with a content-based recommendation engine.
 
@@ -11,6 +11,7 @@ Made with ❤️ by [Alexandre ZAJAC](https://github.com/alexZajac), [Nicolas CA
 <img src="demo.gif" alt="demo" width="100%" height="auto" />
 
 ## Table of contents:
+
 
 - [Loa 🧙‍♀️](#loa-%EF%B8%8F)
   - [Demo](#demo)
